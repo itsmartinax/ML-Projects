@@ -1,5 +1,5 @@
 # Machine-Learning-projects
-In this repository, you will find several machine learning projects. These projects are the result of the Machine Learning specialization course on Coursera. The datasets used in these projects are provided by Kaggle.
+In this repository, you will find several machine learning projects, which are the result of the Machine Learning specialization course on Coursera. The datasets used in these projects are provided by Kaggle.
 
 ## MERCEDES BENZ PROJECT
 In this project, we have analyzed a dataset containing information on the prices of various Mercedes Benz models along with related features (such as model, review count, number of doors, etc.). Our main goal is to create a regression model to predict the price of a particular car model. We have followed the data science workflow:
