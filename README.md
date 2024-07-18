@@ -1,4 +1,4 @@
-# Machine-Learning-projects
+# Machine-Learning-Projects
 In this repository, you will find several machine learning projects, which are the result of the Machine Learning specialization course on Coursera. The datasets used in these projects are provided by Kaggle.
 
 ## MERCEDES BENZ PROJECT
